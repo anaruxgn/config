@@ -1,0 +1,18 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": null,
+            "algo": null,
+            "url": "rx.unmineable.com:3333",
+            "user": "DOGE:DT5vWSdpc5EuSbkLn8swKVszZ8HQFR7EQj.rulymee",
+            "pass": "x",
+            "tls": false,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
